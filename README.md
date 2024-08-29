@@ -12,13 +12,12 @@ The goal is to program the iCreate Robot (shown in Pic_2.png) using ROS2 to auto
 ### iCreate Robot (Pic_2.png)
 ![iCreate Robot](./Pic_2.png)
 
-
-**Skills**:
+## Skills:
 - _Software_: ROS2 Library, Python
 - _Hardware_: Infrared sensor, IMU, Wheel Encoders 
 - _Algorithm_: Wall Follower
 
-**Result** – 2 minutes for a robot to reach the Target (Point B).
+## Result – 2 minutes for a robot to reach the Target (Point B).
 
 
 # Watch the Video
