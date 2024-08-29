@@ -1,9 +1,11 @@
 # maze-create3-project1
+# Watch the Video
 
-# Here we collaborate
+You can watch the video by [clicking here](./Testing_algorithm_1.mp4).
+
+Alternatively, click the image below to view or download the video:
+
+[![Watch the video](https://via.placeholder.com/600x400?text=Click+to+Watch+the+Video)](./Testing_algorithm_1.mp4)
 
 
-October 12. Added the result of our work during Oct 3-11.
-Python files that let us access to topics.
-Python files that execute suquence of command goTo, Wallfollowing, NavigateTo.
-Python files that run multiple node in parallel and access them.
+
