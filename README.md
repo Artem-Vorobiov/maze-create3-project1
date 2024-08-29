@@ -1,6 +1,17 @@
-# iCreate Robot – Maze Challenge
+# Autonomous Navigation with iCreate Robot
 
-**Goal** – program iCreate Robot (Pic_2.png) with ROS2 to autonomously drive from point  A to B (Pic 1.png) without providing a map. 
+## Goal
+
+The goal is to program the iCreate Robot (shown in Pic_2.png) using ROS2 to autonomously navigate from Point A to Point B (shown in Pic_1.png) without providing a pre-existing map.
+
+## Visual Representation
+
+### Path to Navigate (Pic_1.png)
+![Path to Navigate](./Pic_1.png)
+
+### iCreate Robot (Pic_2.png)
+![iCreate Robot](./Pic_2.png)
+
 
 **Skills**:
 - _Software_: ROS2 Library, Python
